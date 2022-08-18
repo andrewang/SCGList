@@ -1,0 +1,110 @@
+2022-08-18 09:24:22-log: [Package] menu@1.0.0 enable
+2022-08-18 09:24:22-log: [Package] profile@1.0.0 enable
+2022-08-18 09:24:22-log: [Package] project@1.0.1 enable
+2022-08-18 09:24:22-log: [Package] messages@1.0.0 enable
+2022-08-18 09:24:22-log: [Package] program@1.0.0 enable
+2022-08-18 09:24:22-log: [Package] device@1.0.1 enable
+2022-08-18 09:24:22-log: [Package] ui-kit@1.0.1 enable
+2022-08-18 09:24:22-log: [Package] tester@1.0.0 enable
+2022-08-18 09:24:22-log: [Package] preferences@1.0.0 enable
+2022-08-18 09:24:22-log: Setup mods mgr.: 138.449ms
+2022-08-18 09:24:22-log: Profile changed: engine (modules.includeModules: 2d,base,gfx-webgl,intersection-2d,profiler,tween,ui)
+2022-08-18 09:24:22-log: [Package] engine@1.0.5 enable
+2022-08-18 09:24:23-log: [Package] programming@1.0.0 enable
+2022-08-18 09:24:23-log: [Package] engine-extends@1.0.0 enable
+2022-08-18 09:24:23-log: [Package] asset-db@1.0.0 enable
+2022-08-18 09:24:23-log: [Package] console@1.0.0 enable
+2022-08-18 09:24:23-log: [Package] scene@1.0.0 enable
+2022-08-18 09:24:23-log: [Package] about@1.0.0 enable
+2022-08-18 09:24:24-log: [Package] utils@1.0.0 enable
+2022-08-18 09:24:24-log: [Package] assets@1.0.0 enable
+2022-08-18 09:24:24-log: [Package] inspector@1.0.0 enable
+2022-08-18 09:24:24-log: [Package] hierarchy@1.0.0 enable
+2022-08-18 09:24:24-log: [Package] preview@1.0.1 enable
+2022-08-18 09:24:25-log: [Package] animator@1.0.0 enable
+2022-08-18 09:24:25-log: [Package] builder@1.3.1 enable
+2022-08-18 09:24:25-log: [Package] node-library@1.0.0 enable
+2022-08-18 09:24:25-log: [Package] shortcuts@1.0.1 enable
+2022-08-18 09:24:25-log: [Package] package-asset@1.0.0 enable
+2022-08-18 09:24:25-log: [Package] reference-image@1.0.0 enable
+2022-08-18 09:24:25-log: [Package] animation-graph@1.0.0 enable
+2022-08-18 09:24:25-log: [Package] channel-upload-tools@1.0.0 enable
+2022-08-18 09:24:25-log: [Package] runtime-dev-tools@1.0.0 enable
+2022-08-18 09:24:25-log: [Package] lightmap@1.0.4 enable
+2022-08-18 09:24:25-log: [Package] alipay-mini-game@1.0.0 enable
+2022-08-18 09:24:25-log: [Package] android@1.0.0 enable
+2022-08-18 09:24:25-log: [Package] baidu-mini-game@1.0.0 enable
+2022-08-18 09:24:25-log: [Package] bytedance-mini-game@1.0.1 enable
+2022-08-18 09:24:25-log: [Package] huawei-agc@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] ios@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] ios-app-clip@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] mac@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] native@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] ohos@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] web-desktop@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] web-mobile@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] wechatgame@1.0.1 enable
+2022-08-18 09:24:26-log: [Package] windows@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] cocos-play@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] huawei-quick-game@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] link-sure@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] oppo-mini-game@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] qtt@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] vivo-mini-game@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] cocos-service@3.0.2 enable
+2022-08-18 09:24:26-log: [Package] importer@1.0.0 enable
+2022-08-18 09:24:26-log: [Package] extension@3.0.15 enable
+2022-08-18 09:24:26-log: [Im-plugin] Check im-plugin version.
+2022-08-18 09:24:26-log: [Package] im-plugin@3.0.8 enable
+2022-08-18 09:24:27-warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-08-18 09:24:27-log: [Scene] Cocos Creator v3.4.2
+2022-08-18 09:24:27-log: [Scene] No need to specify the "type" of "SCGList.itemWH" because cc.Vec2 is a child class of ValueType.
+2022-08-18 09:24:27-log: [Scene] No need to specify the "type" of "SCGList.gapXY" because cc.Vec2 is a child class of ValueType.
+2022-08-18 09:24:27-info: [Scene] Forward render pipeline initialized.
+2022-08-18 09:24:27-log: [Scene] No need to specify the "type" of "SCGList.itemWH" because cc.Vec2 is a child class of ValueType.
+2022-08-18 09:24:27-log: [Scene] No need to specify the "type" of "SCGList.gapXY" because cc.Vec2 is a child class of ValueType.
+2022-08-18 09:24:27-error: [Scene] The Asset used by component "SCGList" in prefab "listSimulation" is missing. Detailed information:
+Asset url: "db://assets/res/listSimulation"
+Missing uuid: "5d3f26fb-ac02-4c83-8140-5b201bb2eacf"
+
+2022-08-18 09:24:27-log: [Im-plugin] No online info of im-plugin.
+2022-08-18 09:31:49-log: [Scene] No need to specify the "type" of "SCGList.itemWH" because cc.Vec2 is a child class of ValueType.
+2022-08-18 09:31:49-log: [Scene] No need to specify the "type" of "SCGList.gapXY" because cc.Vec2 is a child class of ValueType.
+2022-08-18 12:32:34-error: getImSetting failed
+2022-08-18 13:47:22-error: getImSetting failed
+2022-08-18 15:20:53-error: getImSetting failed
+2022-08-18 16:58:46-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Á
+2022-08-18 16:58:46-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:á
+2022-08-18 16:58:46-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Â
+2022-08-18 16:58:46-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:â
+2022-08-18 16:58:50-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Á
+2022-08-18 16:58:50-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:á
+2022-08-18 16:58:50-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Â
+2022-08-18 16:58:50-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:â
+2022-08-18 16:58:50-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Á
+2022-08-18 16:58:50-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:á
+2022-08-18 16:58:50-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Â
+2022-08-18 16:58:50-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:â
+2022-08-18 16:58:52-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Á
+2022-08-18 16:58:52-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:á
+2022-08-18 16:58:52-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Â
+2022-08-18 16:58:53-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Á
+2022-08-18 16:58:53-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:á
+2022-08-18 16:58:53-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Á
+2022-08-18 16:59:42-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Á
+2022-08-18 16:59:46-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Á
+2022-08-18 16:59:46-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:á
+2022-08-18 16:59:46-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:Â
+2022-08-18 16:59:46-log: [Scene] Can't find letter definition in texture atlas hind-bold.png for letter:â
+2022-08-18 19:01:45-error: getImSetting failed
+2022-08-18 19:16:39-log: [Scene] No need to specify the "type" of "SCGList.itemWH" because cc.Vec2 is a child class of ValueType.
+2022-08-18 19:16:39-log: [Scene] No need to specify the "type" of "SCGList.gapXY" because cc.Vec2 is a child class of ValueType.
+2022-08-18 19:34:02-error: getImSetting failed
+2022-08-18 19:46:11-error: getImSetting failed
+2022-08-18 20:12:35-log: [Scene] No need to specify the "type" of "SCGList.itemWH" because cc.Vec2 is a child class of ValueType.
+2022-08-18 20:12:35-log: [Scene] No need to specify the "type" of "SCGList.gapXY" because cc.Vec2 is a child class of ValueType.
